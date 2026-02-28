@@ -12,4 +12,4 @@ I Am Also The Worlds First Person To Solve The SDCS By Jan Sloot That WAS A 27 Y
 
 # Live Discord Status
 
-![Discord Status](http://keeleanfamily.com/Discord_User_Status?Username=Blitz&Status=Disturb)
+![Discord Status](http://keeleanfamily.com/Discord_User_Status?Username=Blitz&Status=DND)
