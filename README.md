@@ -1,9 +1,5 @@
 # NewAgent's Profile
 ## About Me
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=NewAgent2025&label=Total%20Views&color=b700bf&style=flat" alt="Total Stars" />
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=ff0000&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/NewAgent2025" alt="Total Stars" ></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff7700&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/NewAgent2025" alt="Total Forks"></a> </p>
 
 Coding Langages I Know
 HTML CSS JS PHP C++ C# Python
@@ -16,4 +12,4 @@ I Am Also The Worlds First Person To Solve The SDCS By Jan Sloot That WAS A 27 Y
 
 # Live Discord Status
 
-![Discord Status](http://keeleanfamily.com/Discord_User_Status?Username=Blitz&Status=Disturb)
+![Discord Status](http://keeleanfamily.com/Discord_User_Status/GitHubViews.php?Username=Blitz&Status=Disturb)
