@@ -2,7 +2,7 @@
 <h2>NewAgent's Profile</h2>
 <h3>Live Discord Status And GitHub</h3>
 <div class="container">
-  <div class="Live_Discord_Status"><img src="http://keeleanfamily.com/Discord_User_Status?Username=Blitz&Status=Disturb&GitUsername=NewAgent2025" alt="Discord Status And GitHub" /></div>
+  <div class="Live_Discord_Status"><img src="http://keeleanfamily.com/Discord_User_Status/Live_Discord_GitHub_Stauts.php?Username=Blitz&Status=Disturb&GitUsername=NewAgent2025" alt="Discord Status And GitHub" /></div>
 </div>
 <h3>About Me</h3>
 <h4>Please Take Note This Will Be Hard To Read Sense I Haven't Put To Much Thought Into It</h4>
